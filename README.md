@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Navneet Malva</h1>
-<h3 align="center">A passionate software developer with 3+ years of experience in Java SpringBoot and Azure kubernetes services.</h3>
+<h4 align="center">A passionate Java Backend developer with 4+ years of experience in designing, developing and maintaining scalable backend solutions using Java SpringBoot. Proficient in building RESTful APIs, implementing microservices
+architecture, and deploying applications in cloud environments like AKS and EKS.</h4>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navneetmalva) 
