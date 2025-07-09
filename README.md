@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Navneet Malva</h1>
-<h4 align="center">A passionate Java Backend developer with 4+ years of experience in designing, developing and maintaining scalable backend solutions using Java SpringBoot. Proficient in building RESTful APIs, implementing microservices
-architecture, and deploying applications in cloud environments like AKS and EKS.</h4>
+<h4 align="center">Java Backend Developer with 4+ years of experience in building scalable RESTful APIs and microservices using Java, Spring Boot, and SpringData JPA. Proficient in cloud-native development using Docker, Kubernetes (AKS/EKS), and CI/CD tools like GitHub Actions and Jenkins. Strong in designing clean architecture and driving automation across deployments.</h4>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navneetmalva) 
